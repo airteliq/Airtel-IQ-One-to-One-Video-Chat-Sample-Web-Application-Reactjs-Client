@@ -27,15 +27,19 @@ This sample client application also demonstrates the following features:
 
 #### 1.1.1 App Id and App Key
 
-* Create a free account on [Airtel IQ](https://cpaasportal.videoiq.airtel.in/)  
-* Create your Project
-* Get the App ID and App Key generated against the Project
+Follow the steps given below to generate API Credentials required to access Airtel Video IQ:  
+
+* [Access Airtel Video IQ Portal](https://cpaasportal.videoiq.airtel.in/)
+
+* Create your Project 
+
+* Get the App ID and App Key generated against the Project. 
 
 
 #### 1.1.2 Requirements
 
 * Check your [browser compatibility with Airtel IQ](https://videoiq.airtel.in/developer/video/browser-compatibility-of-airteliq-video/) 
-* Download latest copy of [Web SDK (EnxRtc.js)](https://developer.videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3)  and replace public/EnxRtc.js 
+* Download latest copy of [Web SDK (EnxRtc.js)](https://videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.0.0.zip?ver=1.0.0)  and replace public/EnxRtc.js 
 
 #### 1.1.3 Clone
 
@@ -88,7 +92,7 @@ As the Airtel IQ test server has been configured for demonstration purpose only,
 * Conduct a single session with a duration lesser than 10 minutes. 
 * Host a multiparty call with less than 3 participants. 
 
-Refer to the [**Demo App Server**](https://developer.videoiq.airtel.in/video/sample-code/#demo-app-server) for more information.   
+Refer to the [**Demo App Server**](https://videoiq.airtel.in/video/sample-code/#demo-app-server) for more information.   
 
 Once you have successfully tested your application on the test server, you can set up your application server as explained in section 1.1.4 above. 
 
@@ -122,7 +126,7 @@ And many more such exciting features.
 
 Read [**Web Toolkit Documentation**](https://videoiq.airtel.in/developer/video-api/client-api/web-toolkit/)  for more details.  
 
-[**Download Web Toolkit**](https://developer.videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3) to get the latest version of Web SDK. 
+[**Download Web Toolkit**](https://videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.0.0.zip?ver=1.0.0) to get the latest version of Web SDK. 
 
 
 

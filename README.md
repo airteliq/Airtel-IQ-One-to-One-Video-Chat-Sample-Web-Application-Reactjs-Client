@@ -134,6 +134,6 @@ Read [**Web Toolkit Documentation**](https://videoiq.airtel.in/developer/video-a
 
 Airtel IQ provides a library of Documentations, How-to Guides, and Sample Codes to help software developers, interested in embedding RTC in their applications. 
 
-Refer to the [**Complete Developer’s Guide**](https://developer.videoiq.airtel.in) for more details. 
+Refer to the [**Complete Developer’s Guide**](https://videoiq.airtel.in/) for more details. 
 
 You may also write to us for additional support at support@videoiq.airtel.in. 
